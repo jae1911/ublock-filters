@@ -21,6 +21,7 @@
 ||signingcerts.com
 ||gadgetmates.com
 ||phonearena.com
+||laracasts.com
 
 ! Fake recommendations
 ||antivirusguide.com
@@ -29,6 +30,23 @@
 ||safetydetectives.com
 ||av-test.org
 ||moneysavingexpert.com
+||techradar.com
+||techrepublic.com
+||keycdn.com
+||businessofapps.com
+||html5examples.org
+||positronx.io
+||websitesetup.org
+||makeuseof.com
+||trendsalife.com
+||goodcore.co.uk
+||pipeops.io
+||g2.com
+||softonic.com
+||edureka.co
+||simplilearn.com
+||geekflare.com
+||codegrip.tech
 
 ! Overly generic AI generated & copy pasted content
 ||knowledgehut.com
@@ -45,6 +63,8 @@
 ||tynker.com
 ||howtogeek.com
 ||gizchina.com
+||tms-outsource.com
+||dataquest.io
 
 ! Others
 ||daily.dev
