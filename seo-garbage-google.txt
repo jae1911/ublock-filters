@@ -69,6 +69,8 @@ google.*##.g:has(a[href*="multcloud.com"])
 google.*##a[href*="multcloud.com"]:upward(1)
 google.*##.g:has(a[href*="cbackup.com"])
 google.*##a[href*="cbackup.com"]:upward(1)
+google.*##.g:has(a[href*="gamertweak.com"])
+google.*##a[href*="gamertweak.com"]:upward(1)
 
 ! Fake recommendations
 google.*##.g:has(a[href*="antivirusguide.com"])
@@ -263,6 +265,8 @@ google.*##.g:has(a[href*="bloggingtips.com"])
 google.*##a[href*="bloggingtips.com"]:upward(1)
 google.*##.g:has(a[href*="grow.cheap"])
 google.*##a[href*="grow.cheap"]:upward(1)
+google.*##.g:has(a[href*="themebin.com"])
+google.*##a[href*="themebin.com"]:upward(1)
 
 ! Others
 google.*##.g:has(a[href*="daily.dev"])

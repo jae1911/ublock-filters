@@ -37,6 +37,7 @@
 ||datto.com
 ||multcloud.com
 ||cbackup.com
+||gamertweak.com
 
 ! Fake recommendations
 ||antivirusguide.com
@@ -136,6 +137,7 @@
 ||detailed.com
 ||bloggingtips.com
 ||grow.cheap
+||themebin.com
 
 ! Others
 ||daily.dev
