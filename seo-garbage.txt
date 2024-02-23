@@ -87,6 +87,12 @@
 ||softwareadvice.com
 ||usnews.com
 ||hycu.com
+||filehippo.com
+||freedownloadmanager.org
+||lo4d.com
+||filehorse.com
+||security.org
+||apk.watch
 
 ! Content farms
 ||knowledgehut.com
@@ -139,6 +145,7 @@
 ||grow.cheap
 ||themebin.com
 ||macrumors.com
+||cnet.com
 
 ! Others
 ||daily.dev
