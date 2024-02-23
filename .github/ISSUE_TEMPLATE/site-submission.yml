@@ -1,4 +1,5 @@
 name: 'Site submission'
+description: 'Submit a new site to be added to the list.'
 title: '[ADD]'
 labels: ['Addition']
 assignees: jae1911
@@ -8,6 +9,16 @@ body:
     attributes:
       label: URL of submitted site
       placeholder: https://example.com
+  - type: dropdown
+    id: Type
+    attributes:
+      label: What type of content is it?
+      multiple: false
+      options:
+        - 'Fake tutorials'
+        - 'Fake recommendations'
+        - 'AI Generated / Copy pasted content'
+        - 'Other'
   - type: textarea
     id: Comments
     attributes:
