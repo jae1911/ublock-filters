@@ -1,6 +1,6 @@
-name: Site submission
-title: "[ADD]"
-labels: ''
+name: 'Site submission'
+title: '[ADD]'
+labels: ['Addition']
 assignees: jae1911
 body:
   - type: input
