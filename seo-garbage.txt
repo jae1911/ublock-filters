@@ -10,8 +10,25 @@
 ||alphr.com
 ||silicophilic.com
 ||knowtechie.com
+||techilife.com
+||theinfobits.com
+||practical-tips.com
 
 ! Fake recommendations
 ||antivirusguide.com
 ||softwarelab.org
 ||top10antivirussoft.com
+||safetydetectives.com
+||av-test.org
+||moneysavingexpert.com
+
+! Overly generic AI generated & copy pasted content
+||knowledgehut.com
+||netguru.com
+||intelivita.com
+||codesigningstore.com
+||apollotechnical.com
+||inflectra.com
+||hackr.io
+||codeinstitute.net
+||wisequarter.com
