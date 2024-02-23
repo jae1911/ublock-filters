@@ -32,3 +32,6 @@
 ||hackr.io
 ||codeinstitute.net
 ||wisequarter.com
+||pwskills.com
+||stackify.com
+||tynker.com
