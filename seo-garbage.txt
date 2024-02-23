@@ -22,6 +22,7 @@
 ||gadgetmates.com
 ||phonearena.com
 ||laracasts.com
+||minitool.com
 
 ! Fake recommendations
 ||antivirusguide.com
@@ -53,6 +54,17 @@
 ||zfort.com
 ||viso.ai
 ||ig.com
+||allaboutcookies.org
+||comparitech.com
+||brave.com
+||shift4shop.com
+||cloudwards.net
+||softwaretestinghelp.com
+||softwarehow.com
+||happinetz.com
+||themehunk.com
+||greycoder.com
+||allthatsaas.com
 
 ! Content farms
 ||knowledgehut.com
@@ -89,6 +101,8 @@
 ||tbtech.co
 ||investinghaven.com
 ||theserverside.com
+||cybernews.com
+||pcmag.com
 
 ! Others
 ||daily.dev
