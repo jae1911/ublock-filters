@@ -111,6 +111,7 @@
 ||itopvpn.com
 ||top10vpn.com
 ||vpncrew.com
+||customerly.io
 
 ! Content farms
 ||knowledgehut.com
@@ -173,6 +174,7 @@
 ||aarp.org
 ||komando.com
 ||stuff.tv
+||uxdesign.cc
 
 ! Others
 ||daily.dev

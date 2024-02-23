@@ -215,6 +215,8 @@ duckduckgo.*##li:has(a[href*="top10vpn.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="top10vpn.com"])
 duckduckgo.*##li:has(a[href*="vpncrew.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="vpncrew.com"])
+duckduckgo.*##li:has(a[href*="customerly.io"])
+duckduckgo.*##.results_links_deep:has(a[href*="customerly.io"])
 
 ! Content farms
 duckduckgo.*##li:has(a[href*="knowledgehut.com"])
@@ -337,6 +339,8 @@ duckduckgo.*##li:has(a[href*="komando.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="komando.com"])
 duckduckgo.*##li:has(a[href*="stuff.tv"])
 duckduckgo.*##.results_links_deep:has(a[href*="stuff.tv"])
+duckduckgo.*##li:has(a[href*="uxdesign.cc"])
+duckduckgo.*##.results_links_deep:has(a[href*="uxdesign.cc"])
 
 ! Others
 duckduckgo.*##li:has(a[href*="daily.dev"])

@@ -215,6 +215,8 @@ google.*##.g:has(a[href*="top10vpn.com"])
 google.*##a[href*="top10vpn.com"]:upward(1)
 google.*##.g:has(a[href*="vpncrew.com"])
 google.*##a[href*="vpncrew.com"]:upward(1)
+google.*##.g:has(a[href*="customerly.io"])
+google.*##a[href*="customerly.io"]:upward(1)
 
 ! Content farms
 google.*##.g:has(a[href*="knowledgehut.com"])
@@ -337,6 +339,8 @@ google.*##.g:has(a[href*="komando.com"])
 google.*##a[href*="komando.com"]:upward(1)
 google.*##.g:has(a[href*="stuff.tv"])
 google.*##a[href*="stuff.tv"]:upward(1)
+google.*##.g:has(a[href*="uxdesign.cc"])
+google.*##a[href*="uxdesign.cc"]:upward(1)
 
 ! Others
 google.*##.g:has(a[href*="daily.dev"])
