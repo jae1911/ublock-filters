@@ -125,6 +125,17 @@
 ||cybernews.com
 ||pcmag.com
 ||lifehacker.com
+||technologymagazine.com
+||techasoft.com
+||feedspot.com
+||goodwall.io
+||bit.ai
+||bloggerspassion.com
+||manofmany.com
+||raheebash.com
+||detailed.com
+||bloggingtips.com
+||grow.cheap
 
 ! Others
 ||daily.dev
