@@ -13,6 +13,7 @@
 ||techilife.com
 ||theinfobits.com
 ||practical-tips.com
+||bitslovers.com
 
 ! Fake recommendations
 ||antivirusguide.com
@@ -35,3 +36,7 @@
 ||pwskills.com
 ||stackify.com
 ||tynker.com
+||howtogeek.com
+
+! Others
+||daily.dev
