@@ -33,6 +33,10 @@
 ||icare-recovery.com
 ||wondershare.com
 ||easeus.com
+||backupeverything.co.uk
+||datto.com
+||multcloud.com
+||cbackup.com
 
 ! Fake recommendations
 ||antivirusguide.com
@@ -78,6 +82,10 @@
 ||allthatsaas.com
 ||hobsoft.com
 ||uptodown.com
+||predictiveanalyticstoday.com
+||softwareadvice.com
+||usnews.com
+||hycu.com
 
 ! Content farms
 ||knowledgehut.com
