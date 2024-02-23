@@ -1,0 +1,15 @@
+name: Site submission
+title: "[ADD]"
+labels: ''
+assignees: jae1911
+body:
+  - type: input
+    id: URL
+    attributes:
+      label: URL of submitted site
+      placeholder: https://example.com
+  - type: textarea
+    id: Comments
+    attributes:
+      label: Comments
+      placeholder: Awa
