@@ -48,7 +48,7 @@
 ||geekflare.com
 ||codegrip.tech
 
-! Overly generic AI generated & copy pasted content
+! Content farms
 ||knowledgehut.com
 ||netguru.com
 ||intelivita.com
@@ -65,6 +65,7 @@
 ||gizchina.com
 ||tms-outsource.com
 ||dataquest.io
+||tech.co
 
 ! Others
 ||daily.dev

@@ -17,7 +17,7 @@ body:
       options:
         - 'Fake tutorials'
         - 'Fake recommendations'
-        - 'AI Generated / Copy pasted content'
+        - 'Content farms'
         - 'Other'
   - type: textarea
     id: Comments
