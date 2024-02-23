@@ -93,7 +93,18 @@
 ||filehorse.com
 ||security.org
 ||apk.watch
+||apk.dog
 ||topvpn.cc
+||liteapks.com
+||happymod.to
+||apklite.me
+||fastestvpn.com
+||apkbog.com
+||apk.cafe
+||apkcafe.top
+||malavida.com
+||apk.gold
+||apktoy.com
 
 ! Content farms
 ||knowledgehut.com
