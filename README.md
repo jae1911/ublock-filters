@@ -7,7 +7,7 @@ uBlock filter lists.
 To subscribe, add this URL to uBlock: `https://raw.githubusercontent.com/jae1911/ublock-filters/beep/seo-garbage.txt`
 
 Categories:
-* Fake tutorials - Uninformative tutorials, most probably AI-generated
+* Fake tutorials - Uninformative tutorials, most probably AI-generated; those also include "tutorials" made for the sole purpose of making you purchase a product under a generic title
 * Fake recommendation - "Top 10 best X" with sponsored links everywhere
 * Content farms - "News" sites accumulating as much content as possible to get clicks
 * Others - Others
