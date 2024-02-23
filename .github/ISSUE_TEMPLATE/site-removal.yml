@@ -1,0 +1,16 @@
+name: 'Site removal'
+description: 'Ask for a website to be removed'
+title: '[DEL]'
+labels: ['Removal']
+assignees: jae1911
+body:
+  - type: input
+    id: URL
+    attributes:
+      label: URL of the website
+      placeholder: https://example.com
+  - type: textarea
+    id: Reason
+    attributes:
+      label: Reason
+      placeholder: Awa
