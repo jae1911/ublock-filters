@@ -17,3 +17,9 @@ Categories:
 This version will removes those search results if detected within Google.
 
 To subscribe, add `https://raw.githubusercontent.com/jae1911/ublock-filters/beep/seo-garbage-google.txt`
+
+### Duckduckgo edition
+
+This version is experimental for Duckduckgo that will remove the domains from the search results.
+
+To subscribe, add `https://raw.githubusercontent.com/jae1911/ublock-filters/beep/seo-garbage-duckduckgo.txt`
