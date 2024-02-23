@@ -1,0 +1,11 @@
+name: 'Other'
+description: 'Other kind of issue'
+title: '[OTHER]'
+labels: ['Other']
+assignees: jae1911
+body:
+  - type: textarea
+    id: Issue
+    attributes:
+      label: Your issue
+      placeholder: Awa
