@@ -47,6 +47,12 @@
 ||simplilearn.com
 ||geekflare.com
 ||codegrip.tech
+||clickup.com
+||woodstockit.co.uk
+||synthesia.io
+||zfort.com
+||viso.ai
+||ig.com
 
 ! Content farms
 ||knowledgehut.com
@@ -66,6 +72,11 @@
 ||tms-outsource.com
 ||dataquest.io
 ||tech.co
+||tomsguide.com
+||finance.yahoo.com
+||artificialintelligence-news.com
+||cryptodaily.co.uk
+||iotinsider.com
 
 ! Others
 ||daily.dev
