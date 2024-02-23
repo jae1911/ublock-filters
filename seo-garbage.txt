@@ -105,6 +105,12 @@
 ||malavida.com
 ||apk.gold
 ||apktoy.com
+||vpnmentor.com
+||topvpnsoftware.com
+||vpnoverview.com
+||itopvpn.com
+||top10vpn.com
+||vpncrew.com
 
 ! Content farms
 ||knowledgehut.com
@@ -158,6 +164,15 @@
 ||themebin.com
 ||macrumors.com
 ||cnet.com
+||earthweb.com
+||rd.com
+||beebom.com
+||familyhandyman.com
+||usatoday.com
+||livingetc.com
+||aarp.org
+||komando.com
+||stuff.tv
 
 ! Others
 ||daily.dev
