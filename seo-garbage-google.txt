@@ -4,6 +4,7 @@
 ! Description: Tired of ending up on SEO-filled websites that never tell you the info you want? Say no more!
 ! Homepage: https://github.com/jae1911/ublock-filters
 
+! Fake tutorials
 google.*##.g:has(a[href*="applenapps.com"])
 google.*##a[href*="applenapps.com"]:upward(1)
 google.*##.g:has(a[href*="guidingtech.com"])
@@ -60,6 +61,8 @@ google.*##.g:has(a[href*="wondershare.com"])
 google.*##a[href*="wondershare.com"]:upward(1)
 google.*##.g:has(a[href*="easeus.com"])
 google.*##a[href*="easeus.com"]:upward(1)
+
+! Fake recommendations
 google.*##.g:has(a[href*="antivirusguide.com"])
 google.*##a[href*="antivirusguide.com"]:upward(1)
 google.*##.g:has(a[href*="softwarelab.org"])
@@ -146,6 +149,8 @@ google.*##.g:has(a[href*="hobsoft.com"])
 google.*##a[href*="hobsoft.com"]:upward(1)
 google.*##.g:has(a[href*="uptodown.com"])
 google.*##a[href*="uptodown.com"]:upward(1)
+
+! Content farms
 google.*##.g:has(a[href*="knowledgehut.com"])
 google.*##a[href*="knowledgehut.com"]:upward(1)
 google.*##.g:has(a[href*="netguru.com"])
@@ -220,6 +225,8 @@ google.*##.g:has(a[href*="pcmag.com"])
 google.*##a[href*="pcmag.com"]:upward(1)
 google.*##.g:has(a[href*="lifehacker.com"])
 google.*##a[href*="lifehacker.com"]:upward(1)
+
+! Others
 google.*##.g:has(a[href*="daily.dev"])
 google.*##a[href*="daily.dev"]:upward(1)
 google.*##.g:has(a[href*="alldayathlete.de"])
