@@ -179,6 +179,8 @@ google.*##.g:has(a[href*="security.org"])
 google.*##a[href*="security.org"]:upward(1)
 google.*##.g:has(a[href*="apk.watch"])
 google.*##a[href*="apk.watch"]:upward(1)
+google.*##.g:has(a[href*="topvpn.cc"])
+google.*##a[href*="topvpn.cc"]:upward(1)
 
 ! Content farms
 google.*##.g:has(a[href*="knowledgehut.com"])

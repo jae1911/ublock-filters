@@ -93,6 +93,7 @@
 ||filehorse.com
 ||security.org
 ||apk.watch
+||topvpn.cc
 
 ! Content farms
 ||knowledgehut.com

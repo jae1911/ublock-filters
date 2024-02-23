@@ -179,6 +179,8 @@ duckduckgo.*##li:has(a[href*="security.org"])
 duckduckgo.*##.results_links_deep:has(a[href*="security.org"])
 duckduckgo.*##li:has(a[href*="apk.watch"])
 duckduckgo.*##.results_links_deep:has(a[href*="apk.watch"])
+duckduckgo.*##li:has(a[href*="topvpn.cc"])
+duckduckgo.*##.results_links_deep:has(a[href*="topvpn.cc"])
 
 ! Content farms
 duckduckgo.*##li:has(a[href*="knowledgehut.com"])
