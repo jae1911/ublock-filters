@@ -1,0 +1,7 @@
+[Adblock Plus 3.17]
+! Title: Jae's anti-SEO garbage
+! Version: 0.1
+! Description: Tired of ending up on SEO-filled websites that never tell you the info you want? Say no more!
+! Homepage: https://github.com/jae1911/ublock-filters
+
+||aplenapps.com
