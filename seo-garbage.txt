@@ -14,6 +14,13 @@
 ||theinfobits.com
 ||practical-tips.com
 ||bitslovers.com
+||techtarget.com
+||getupdraft.com
+||setapp.com
+||ytechb.com
+||signingcerts.com
+||gadgetmates.com
+||phonearena.com
 
 ! Fake recommendations
 ||antivirusguide.com
@@ -37,6 +44,7 @@
 ||stackify.com
 ||tynker.com
 ||howtogeek.com
+||gizchina.com
 
 ! Others
 ||daily.dev
