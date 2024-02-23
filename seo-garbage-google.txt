@@ -267,6 +267,8 @@ google.*##.g:has(a[href*="grow.cheap"])
 google.*##a[href*="grow.cheap"]:upward(1)
 google.*##.g:has(a[href*="themebin.com"])
 google.*##a[href*="themebin.com"]:upward(1)
+google.*##.g:has(a[href*="macrumors.com"])
+google.*##a[href*="macrumors.com"]:upward(1)
 
 ! Others
 google.*##.g:has(a[href*="daily.dev"])
