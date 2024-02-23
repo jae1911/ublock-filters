@@ -4,4 +4,14 @@
 ! Description: Tired of ending up on SEO-filled websites that never tell you the info you want? Say no more!
 ! Homepage: https://github.com/jae1911/ublock-filters
 
-||aplenapps.com
+! Fake tutorials
+||applenapps.com
+||guidingtech.com
+||alphr.com
+||silicophilic.com
+||knowtechie.com
+
+! Fake recommendations
+||antivirusguide.com
+||softwarelab.org
+||top10antivirussoft.com
