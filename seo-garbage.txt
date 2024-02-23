@@ -67,6 +67,7 @@
 ||allaboutcookies.org
 ||comparitech.com
 ||brave.com
+||bravesoftware.com
 ||shift4shop.com
 ||cloudwards.net
 ||softwaretestinghelp.com
