@@ -23,6 +23,16 @@
 ||phonearena.com
 ||laracasts.com
 ||minitool.com
+||acronis.com
+||brytesoft.com
+||wps.com
+||imore.com
+||slashgear.com
+||easeus.com
+||ubackup.com
+||icare-recovery.com
+||wondershare.com
+||easeus.com
 
 ! Fake recommendations
 ||antivirusguide.com
@@ -65,6 +75,7 @@
 ||themehunk.com
 ||greycoder.com
 ||allthatsaas.com
+||hobsoft.com
 
 ! Content farms
 ||knowledgehut.com
@@ -103,6 +114,8 @@
 ||theserverside.com
 ||cybernews.com
 ||pcmag.com
+||lifehacker.com
 
 ! Others
 ||daily.dev
+||alldayathlete.de
