@@ -77,6 +77,18 @@
 ||artificialintelligence-news.com
 ||cryptodaily.co.uk
 ||iotinsider.com
+||prnewswire.co.uk
+||cryptonews.com
+||scenegraphstudios.com
+||bitmedia.io
+||nasdaq.com
+||techopedia.com
+||msn.com
+||medium.com
+||u.today
+||tbtech.co
+||investinghaven.com
+||theserverside.com
 
 ! Others
 ||daily.dev
