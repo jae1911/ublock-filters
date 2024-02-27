@@ -341,6 +341,10 @@ duckduckgo.*##li:has(a[href*="stuff.tv"])
 duckduckgo.*##.results_links_deep:has(a[href*="stuff.tv"])
 duckduckgo.*##li:has(a[href*="uxdesign.cc"])
 duckduckgo.*##.results_links_deep:has(a[href*="uxdesign.cc"])
+duckduckgo.*##li:has(a[href*="quora.com"])
+duckduckgo.*##.results_links_deep:has(a[href*="quora.com"])
+duckduckgo.*##li:has(a[href*="redmondpie.com"])
+duckduckgo.*##.results_links_deep:has(a[href*="redmondpie.com"])
 
 ! Others
 duckduckgo.*##li:has(a[href*="daily.dev"])

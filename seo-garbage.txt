@@ -175,6 +175,8 @@
 ||komando.com
 ||stuff.tv
 ||uxdesign.cc
+||quora.com
+||redmondpie.com
 
 ! Others
 ||daily.dev

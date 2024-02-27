@@ -341,6 +341,10 @@ google.*##.g:has(a[href*="stuff.tv"])
 google.*##a[href*="stuff.tv"]:upward(1)
 google.*##.g:has(a[href*="uxdesign.cc"])
 google.*##a[href*="uxdesign.cc"]:upward(1)
+google.*##.g:has(a[href*="quora.com"])
+google.*##a[href*="quora.com"]:upward(1)
+google.*##.g:has(a[href*="redmondpie.com"])
+google.*##a[href*="redmondpie.com"]:upward(1)
 
 ! Others
 google.*##.g:has(a[href*="daily.dev"])
