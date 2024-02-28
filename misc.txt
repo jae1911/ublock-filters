@@ -33,9 +33,15 @@ github.com##[aria-label="Explore"]
 # YT
 youtube.com##ytd-comments
 
+# VERKKOKAUPPA
+verkkokauppa.com##.product-list-navigator-wrapper
+
 # REMOVE TWITTER
 *##a[href*="x.com"]
 *##a[href*="twitter.com"]
+
+# REMOVE INSTAGRAM
+*##[href*="instagram.com"]
 
 # TRACKING DATA
 ||ebay.*^$removeparam=/.*=/
