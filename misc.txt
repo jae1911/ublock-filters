@@ -32,6 +32,10 @@ github.com##[aria-label="Explore"]
 
 # YT
 youtube.com##ytd-comments
+youtube.com##ytd-guide-section-renderer:has(yt-formatted-string:has-text(/More from YouTube/))
+youtube.com##ytd-guide-section-renderer:has(yt-formatted-string:has-text(/Explore/))
+youtube.com##ytd-guide-entry-renderer:has(yt-formatted-string:has-text(/Shorts/))
+youtube.com##ytd-mini-guide-entry-renderer:has(a[title="Shorts"])
 
 # VERKKOKAUPPA
 verkkokauppa.com##.product-list-navigator-wrapper
