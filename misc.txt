@@ -52,6 +52,7 @@ arstechnica.com##.xrail:has(aside.featured-video)
 arstechnica.com##.listing-earlier
 arstechnica.com##a[href*="/subscriptions"]
 arstechnica.com##a[href*="/civis"]
+arstechnica.com##a[href*="/store"]
 arstechnica.com##footer:has(.comments-hotness)
 arstechnica.com##[id="social-footer"]
 arstechnica.com##[id="comments-area"]
