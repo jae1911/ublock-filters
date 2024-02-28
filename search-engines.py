@@ -2,10 +2,7 @@
 # to generate rulesets for specific search engines
 # Everything looks bad, everything is hardcoded but we love it
 
-original_file = open('seo-garbage.txt', 'r')
-domains = original_file.readlines()
-original_file.close()
-
+list_names = ['seo-garbage']
 variants = ['Google', 'Duckduckgo', 'Yandex']
 
 def google_converter(domain: str) -> str:
@@ -22,8 +19,8 @@ def yandex_converter(domain: str) -> str:
     converted = f'ya.ru##.serp-item:has(a[href*="{domain}"])\n'
     return converted
 
-def generate_list(variant: str) -> None:
-    list_file = open(f'seo-garbage-{variant.lower()}.txt', 'w')
+def generate_list(variant: str, domains: list[str], list: str) -> None:
+    list_file = open(f'{list}-{variant.lower()}.txt', 'w')
 
     for line in domains:
         line = line.strip()
@@ -45,5 +42,10 @@ def generate_list(variant: str) -> None:
 
     list_file.close()
 
-for version in variants:
-    generate_list(version)
+for list in list_names:
+    file = open(f'{list}.txt')
+    domains = file.readlines()
+    file.close()
+
+    for version in variants:
+        generate_list(version, domains, list)
