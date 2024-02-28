@@ -32,6 +32,10 @@ github.com##.js-profile-editable-replace img.achievement-badge-sidebar:upward(di
 # YT
 youtube.com##ytd-comments
 
+# REMOVE TWITTER
+*##a[href*="x.com"]
+*##a[href*="twitter.com"]
+
 # TRACKING DATA
 ||ebay.*^$removeparam=/.*=/
 ||aliexpress.*^$removeparam=/.*=/
