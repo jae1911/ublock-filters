@@ -6,7 +6,7 @@ original_file = open('seo-garbage.txt', 'r')
 domains = original_file.readlines()
 original_file.close()
 
-variants = ['Google', 'Duckduckgo']
+variants = ['Google', 'Duckduckgo', 'Yandex']
 
 def google_converter(domain: str) -> str:
     converted = f'google.*##.g:has(a[href*="{domain}"])\n'
@@ -18,6 +18,10 @@ def duckduckgo_converter(domain: str) -> str:
     converted += f'duckduckgo.*##.results_links_deep:has(a[href*="{domain}"])\n'
     return converted
 
+def yandex_converter(domain: str) -> str:
+    converted = f'ya.ru##.serp-item:has(a[href*="{domain}"])\n'
+    return converted
+
 def generate_list(variant: str) -> None:
     list_file = open(f'seo-garbage-{variant.lower()}.txt', 'w')
 
@@ -25,11 +29,14 @@ def generate_list(variant: str) -> None:
         line = line.strip()
 
         if '||' in line:
+            line = line.replace('||', '')
             match variant:
                 case 'Google':
-                    list_file.write(google_converter(line.replace('||', '')))
+                    list_file.write(google_converter(line))
                 case 'Duckduckgo':
-                    list_file.write(duckduckgo_converter(line.replace('||', '')))
+                    list_file.write(duckduckgo_converter(line))
+                case 'Yandex':
+                    list_file.write(yandex_converter(line))
         else:
             if '! Title:' in line:
                 list_file.write(f'{line}, {variant} edition\n')

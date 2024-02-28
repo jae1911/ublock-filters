@@ -20,6 +20,12 @@ To subscribe, add `https://raw.githubusercontent.com/jae1911/ublock-filters/beep
 
 ### Duckduckgo edition
 
-This version is experimental for Duckduckgo that will remove the domains from the search results.
+This version is for Duckduckgo that will remove the domains from the search results.
 
 To subscribe, add `https://raw.githubusercontent.com/jae1911/ublock-filters/beep/seo-garbage-duckduckgo.txt`
+
+### Yandex version
+
+This version is for Yandex that will remove the domains from search results.
+
+To subscribe, add `https://raw.githubusercontent.com/jae1911/ublock-filters/beep/seo-garbage-yandex.txt`
