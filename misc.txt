@@ -60,6 +60,11 @@ arstechnica.com##[id="article-footer"]
 arstechnica.com##.inline-playlist
 *##a[href*="advertising.condenast.com"]
 
+# MEDIAPART
+mediapart.fr##.banner-tophome
+mediapart.fr##.home__sidebar
+mediapart.fr##a[href*="blogs.mediapart.fr"]
+
 # REMOVE TWITTER
 *##a[href*="x.com"]
 ||x.com
