@@ -19,7 +19,7 @@ def duckduckgo_converter(domain: str) -> str:
     return converted
 
 def generate_list(variant: str) -> None:
-    list_file = open(f'seo-garbage-{variant}.txt', 'w')
+    list_file = open(f'seo-garbage-{variant.lower()}.txt', 'w')
 
     for line in domains:
         line = line.strip()
