@@ -41,6 +41,24 @@ youtube.com##.ytd-rich-shelf-renderer:has(span:has-text(/Shorts/))
 # VERKKOKAUPPA
 verkkokauppa.com##.product-list-navigator-wrapper
 
+# REUTERS
+reuters.com##[class*="divider-container"]:has(a:has-text(/Business/))
+reuters.com##[class*="divider-container"]:has(a:has-text(/Pictures/))
+reuters.com##[class*="divider-container"]:has(h2:has-text(/The Last Read/))
+reuters.com##[class*="divider-container"]:has(h2:has-text(/Sponsored/))
+
+# ARSTECHNICA
+arstechnica.com##.xrail:has(aside.featured-video)
+arstechnica.com##.listing-earlier
+arstechnica.com##a[href*="/subscriptions"]
+arstechnica.com##a[href*="/civis"]
+arstechnica.com##footer:has(.comments-hotness)
+arstechnica.com##[id="social-footer"]
+arstechnica.com##[id="comments-area"]
+arstechnica.com##[id="article-footer"]
+arstechnica.com##.inline-playlist
+*##a[href*="advertising.condenast.com"]
+
 # REMOVE TWITTER
 *##a[href*="x.com"]
 ||x.com
@@ -49,6 +67,11 @@ verkkokauppa.com##.product-list-navigator-wrapper
 
 # REMOVE INSTAGRAM
 *##[href*="instagram.com"]
+||instagram.com
+
+# REMOVE BLUESKY
+*##[href*="bsky.app"]
+||bsky.app
 
 # TRACKING DATA
 ||ebay.*^$removeparam=/.*=/
