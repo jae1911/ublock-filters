@@ -1,0 +1,33 @@
+[Adblock Plus 3.17]
+! Title: Jae's misc blocklist
+! Version: 0.1
+! Description: Blocks misc stuff.
+! Homepage: https://github.com/jae1911/ublock-filters
+
+# FA
+furaffinity.net##a[href*="/plus"]
+furaffinity.net##a[href*="/advertising"]
+furaffinity.net##a[href*="shop.furaffinity.net"]
+
+# YC
+news.ycombinator.com##html:style(filter:invert(100%) hue-rotate(180deg))
+news.ycombinator.com##body:style(background: #e6e6e6)
+news.ycombinator.com##tbody:style(background: #e6e6e6)
+news.ycombinator.com###hnmain:remove-attr(bgcolor)
+news.ycombinator.com##:matches-path("/item") tbody:style(background: #dbdbdb)
+news.ycombinator.com##div.toptext:style(color: black)
+news.ycombinator.com###hnmain td[bgcolor="#000000"]
+
+# GH
+github.com###dashboard .js-feeds-tabs #feed-next
+github.com###dashboard tab-container div[aria-labelledby="feed-next"]
+github.com##aside .dashboard-changelog.mb-4
+github.com##.js-notice
+github.com##.js-profile-editable-replace img.achievement-badge-sidebar:upward(div.border-top)
+
+# YT
+youtube.com##ytd-comments
+
+# TRACKING DATA
+||ebay.*^$removeparam=/.*=/
+||aliexpress.*^$removeparam=/.*=/

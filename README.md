@@ -29,3 +29,10 @@ To subscribe, add `https://raw.githubusercontent.com/jae1911/ublock-filters/beep
 This version is for Yandex that will remove the domains from search results.
 
 To subscribe, add `https://raw.githubusercontent.com/jae1911/ublock-filters/beep/seo-garbage-yandex.txt`
+
+## Misc
+
+The misc list is my personal uBlock filters.  
+Please double-check the list before subscribing to it as I'm quite heavy-handed on blocking.
+
+Subscribe by adding: `https://raw.githubusercontent.com/jae1911/ublock-filters/beep/misc.txt`
