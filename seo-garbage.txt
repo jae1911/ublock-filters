@@ -178,6 +178,7 @@
 ||quora.com
 ||redmondpie.com
 ||geeky-gadgets.com
+||chron.com
 
 ! Others
 ||daily.dev
