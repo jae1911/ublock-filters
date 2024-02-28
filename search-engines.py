@@ -2,33 +2,41 @@
 # to generate rulesets for specific search engines
 # Everything looks bad, everything is hardcoded but we love it
 
-orig = open('seo-garbage.txt', 'r')
-domains = orig.readlines()
-orig.close()
+original_file = open('seo-garbage.txt', 'r')
+domains = original_file.readlines()
+original_file.close()
 
-google = open('seo-garbage-google.txt', 'w')
-duck = open('seo-garbage-duckduckgo.txt', 'w')
+variants = ['Google', 'Duckduckgo']
 
-for line in domains:
-    line = line.strip()
+def google_converter(domain: str) -> str:
+    converted = f'google.*##.g:has(a[href*="{domain}"])\n'
+    converted += f'google.*##a[href*="{domain}"]:upward(1)\n'
+    return converted
 
-    if '||' in line: # The best detection ever
-        line = line.replace('||', '')
-        
-        # GOOGLE
-        google.write(f'google.*##.g:has(a[href*="{line}"])\n')
-        google.write(f'google.*##a[href*="{line}"]:upward(1)\n')
+def duckduckgo_converter(domain: str) -> str:
+    converted = f'duckduckgo.*##li:has(a[href*="{domain}"])\n'
+    converted += f'duckduckgo.*##.results_links_deep:has(a[href*="{domain}"])\n'
+    return converted
 
-        # DUCKDUCKGO
-        duck.write(f'duckduckgo.*##li:has(a[href*="{line}"])\n')
-        duck.write(f'duckduckgo.*##.results_links_deep:has(a[href*="{line}"])\n')
-    else:
-        if '! Title:' in line:
-            google.write(f'{line}, Google edition\n')
-            duck.write(f'{line}, Duckduckgo edition\n')
+def generate_list(variant: str) -> None:
+    list_file = open(f'seo-garbage-{variant}.txt', 'w')
+
+    for line in domains:
+        line = line.strip()
+
+        if '||' in line:
+            match variant:
+                case 'Google':
+                    list_file.write(google_converter(line.replace('||', '')))
+                case 'Duckduckgo':
+                    list_file.write(duckduckgo_converter(line.replace('||', '')))
         else:
-            google.write(f'{line}\n')
-            duck.write(f'{line}\n')
+            if '! Title:' in line:
+                list_file.write(f'{line}, {variant} edition\n')
+            else:
+                list_file.write(f'{line}\n')
 
-google.close()
-duck.close()
+    list_file.close()
+
+for version in variants:
+    generate_list(version)
