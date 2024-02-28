@@ -28,6 +28,7 @@ github.com###dashboard tab-container div[aria-labelledby="feed-next"]
 github.com##aside .dashboard-changelog.mb-4
 github.com##.js-notice
 github.com##.js-profile-editable-replace img.achievement-badge-sidebar:upward(div.border-top)
+github.com##[aria-label="Explore"]
 
 # YT
 youtube.com##ytd-comments
