@@ -38,7 +38,9 @@ verkkokauppa.com##.product-list-navigator-wrapper
 
 # REMOVE TWITTER
 *##a[href*="x.com"]
+||x.com
 *##a[href*="twitter.com"]
+||twitter.com
 
 # REMOVE INSTAGRAM
 *##[href*="instagram.com"]
