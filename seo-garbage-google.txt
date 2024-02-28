@@ -345,6 +345,8 @@ google.*##.g:has(a[href*="quora.com"])
 google.*##a[href*="quora.com"]:upward(1)
 google.*##.g:has(a[href*="redmondpie.com"])
 google.*##a[href*="redmondpie.com"]:upward(1)
+google.*##.g:has(a[href*="geeky-gadgets.com"])
+google.*##a[href*="geeky-gadgets.com"]:upward(1)
 
 ! Others
 google.*##.g:has(a[href*="daily.dev"])

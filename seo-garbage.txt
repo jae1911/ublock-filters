@@ -177,6 +177,7 @@
 ||uxdesign.cc
 ||quora.com
 ||redmondpie.com
+||geeky-gadgets.com
 
 ! Others
 ||daily.dev

@@ -345,6 +345,8 @@ duckduckgo.*##li:has(a[href*="quora.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="quora.com"])
 duckduckgo.*##li:has(a[href*="redmondpie.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="redmondpie.com"])
+duckduckgo.*##li:has(a[href*="geeky-gadgets.com"])
+duckduckgo.*##.results_links_deep:has(a[href*="geeky-gadgets.com"])
 
 ! Others
 duckduckgo.*##li:has(a[href*="daily.dev"])
