@@ -9,6 +9,10 @@ furaffinity.net##a[href*="/plus"]
 furaffinity.net##a[href*="/advertising"]
 furaffinity.net##a[href*="shop.furaffinity.net"]
 
+# E6/E9
+e621.net##a[href*="/help/advertising"]
+e926.net##a[href*="/help/advertising"]
+
 # YC
 news.ycombinator.com##html:style(filter:invert(100%) hue-rotate(180deg))
 news.ycombinator.com##body:style(background: #e6e6e6)
