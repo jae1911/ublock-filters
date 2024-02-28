@@ -36,6 +36,7 @@ youtube.com##ytd-guide-section-renderer:has(yt-formatted-string:has-text(/More f
 youtube.com##ytd-guide-section-renderer:has(yt-formatted-string:has-text(/Explore/))
 youtube.com##ytd-guide-entry-renderer:has(yt-formatted-string:has-text(/Shorts/))
 youtube.com##ytd-mini-guide-entry-renderer:has(a[title="Shorts"])
+youtube.com##.ytd-rich-shelf-renderer:has(span:has-text(/Shorts/))
 
 # VERKKOKAUPPA
 verkkokauppa.com##.product-list-navigator-wrapper
