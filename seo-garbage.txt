@@ -38,6 +38,12 @@
 ||multcloud.com
 ||cbackup.com
 ||gamertweak.com
+||elegantthemes.com
+||dorik.com
+||fool.com
+||analyticsinsight.net
+||sensoriumarc.com
+||mondayroadmap.com
 
 ! Fake recommendations
 ||antivirusguide.com
@@ -112,6 +118,8 @@
 ||top10vpn.com
 ||vpncrew.com
 ||customerly.io
+||gobankingrates.com
+||celectstudios.com
 
 ! Content farms
 ||knowledgehut.com
@@ -179,6 +187,8 @@
 ||redmondpie.com
 ||geeky-gadgets.com
 ||chron.com
+||unite.ai
+||coincodecap.com
 
 ! Others
 ||daily.dev

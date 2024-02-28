@@ -38,6 +38,12 @@ ya.ru##.serp-item:has(a[href*="datto.com"])
 ya.ru##.serp-item:has(a[href*="multcloud.com"])
 ya.ru##.serp-item:has(a[href*="cbackup.com"])
 ya.ru##.serp-item:has(a[href*="gamertweak.com"])
+ya.ru##.serp-item:has(a[href*="elegantthemes.com"])
+ya.ru##.serp-item:has(a[href*="dorik.com"])
+ya.ru##.serp-item:has(a[href*="fool.com"])
+ya.ru##.serp-item:has(a[href*="analyticsinsight.net"])
+ya.ru##.serp-item:has(a[href*="sensoriumarc.com"])
+ya.ru##.serp-item:has(a[href*="mondayroadmap.com"])
 
 ! Fake recommendations
 ya.ru##.serp-item:has(a[href*="antivirusguide.com"])
@@ -112,6 +118,8 @@ ya.ru##.serp-item:has(a[href*="itopvpn.com"])
 ya.ru##.serp-item:has(a[href*="top10vpn.com"])
 ya.ru##.serp-item:has(a[href*="vpncrew.com"])
 ya.ru##.serp-item:has(a[href*="customerly.io"])
+ya.ru##.serp-item:has(a[href*="gobankingrates.com"])
+ya.ru##.serp-item:has(a[href*="celectstudios.com"])
 
 ! Content farms
 ya.ru##.serp-item:has(a[href*="knowledgehut.com"])
@@ -179,6 +187,8 @@ ya.ru##.serp-item:has(a[href*="quora.com"])
 ya.ru##.serp-item:has(a[href*="redmondpie.com"])
 ya.ru##.serp-item:has(a[href*="geeky-gadgets.com"])
 ya.ru##.serp-item:has(a[href*="chron.com"])
+ya.ru##.serp-item:has(a[href*="unite.ai"])
+ya.ru##.serp-item:has(a[href*="coincodecap.com"])
 
 ! Others
 ya.ru##.serp-item:has(a[href*="daily.dev"])
