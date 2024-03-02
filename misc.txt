@@ -65,6 +65,12 @@ mediapart.fr##.banner-tophome
 mediapart.fr##.home__sidebar
 mediapart.fr##a[href*="blogs.mediapart.fr"]
 
+# BLEEPINGCOMPUTER
+bleepingcomputer.com##li:has(a[href*="/offer/deal"])
+
+# LIBERATION
+liberation.fr##[class*="AdLayout"]
+
 # REMOVE TWITTER
 *##a[href*="x.com"]
 ||x.com
@@ -82,6 +88,3 @@ mediapart.fr##a[href*="blogs.mediapart.fr"]
 # TRACKING DATA
 ||ebay.*^$removeparam=/.*=/
 ||aliexpress.*^$removeparam=/.*=/
-
-# REMOVE ADS
-liberation.fr##[class*="AdLayout"]
