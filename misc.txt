@@ -82,3 +82,6 @@ mediapart.fr##a[href*="blogs.mediapart.fr"]
 # TRACKING DATA
 ||ebay.*^$removeparam=/.*=/
 ||aliexpress.*^$removeparam=/.*=/
+
+# REMOVE ADS
+liberation.fr##[class*="AdLayout"]
