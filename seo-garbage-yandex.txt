@@ -189,6 +189,11 @@ ya.ru##.serp-item:has(a[href*="geeky-gadgets.com"])
 ya.ru##.serp-item:has(a[href*="chron.com"])
 ya.ru##.serp-item:has(a[href*="unite.ai"])
 ya.ru##.serp-item:has(a[href*="coincodecap.com"])
+ya.ru##.serp-item:has(a[href*="allsides.com"])
+ya.ru##.serp-item:has(a[href*="adfontesmedia.com"])
+ya.ru##.serp-item:has(a[href*="buzzfeed.com"])
+ya.ru##.serp-item:has(a[href*="coindesk.com"])
+ya.ru##.serp-item:has(a[href*="tvtropes.org"])
 
 ! Others
 ya.ru##.serp-item:has(a[href*="daily.dev"])

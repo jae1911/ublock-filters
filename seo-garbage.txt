@@ -189,6 +189,11 @@
 ||chron.com
 ||unite.ai
 ||coincodecap.com
+||allsides.com
+||adfontesmedia.com
+||buzzfeed.com
+||coindesk.com
+||tvtropes.org
 
 ! Others
 ||daily.dev
