@@ -1,0 +1,26 @@
+name: Welcome PR
+
+on:
+  pull_request:
+    types: [opened]
+
+permissions:
+  pull-requests: write
+
+env:
+  BODY_MESSAGE: |
+    Welcome and thanks for your PR.  
+    When adding a new batch of sites to a list, please make sure you:
+    - Tested all the websites to match their categories
+    - Tested all the websites to check if they're not dead
+    - Ran the script to generate search-engine specific lists (`python search-engines.py`)
+  GITHUB_TOKEN: ${{ SECRETS.GITHUB_TOKEN }}
+
+jobs:
+  build:
+    name: Welcome contributor
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh pr comment $PR_URL --body $BODY_MESSAGE
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
