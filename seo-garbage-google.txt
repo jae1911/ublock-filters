@@ -379,6 +379,8 @@ google.*##.g:has(a[href*="coindesk.com"])
 google.*##a[href*="coindesk.com"]:upward(1)
 google.*##.g:has(a[href*="tvtropes.org"])
 google.*##a[href*="tvtropes.org"]:upward(1)
+google.*##.g:has(a[href*="aei.org"])
+google.*##a[href*="aei.org"]:upward(1)
 
 ! Others
 google.*##.g:has(a[href*="daily.dev"])

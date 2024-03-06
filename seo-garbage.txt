@@ -194,6 +194,7 @@
 ||buzzfeed.com
 ||coindesk.com
 ||tvtropes.org
+||aei.org
 
 ! Others
 ||daily.dev
