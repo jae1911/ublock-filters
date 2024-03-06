@@ -195,6 +195,9 @@ ya.ru##.serp-item:has(a[href*="buzzfeed.com"])
 ya.ru##.serp-item:has(a[href*="coindesk.com"])
 ya.ru##.serp-item:has(a[href*="tvtropes.org"])
 ya.ru##.serp-item:has(a[href*="aei.org"])
+ya.ru##.serp-item:has(a[href*="fungies.io"])
+ya.ru##.serp-item:has(a[href*="pymnts.com"])
+ya.ru##.serp-item:has(a[href*="pocketnow.com"])
 
 ! Others
 ya.ru##.serp-item:has(a[href*="daily.dev"])

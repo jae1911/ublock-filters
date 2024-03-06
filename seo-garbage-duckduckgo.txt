@@ -381,6 +381,12 @@ duckduckgo.*##li:has(a[href*="tvtropes.org"])
 duckduckgo.*##.results_links_deep:has(a[href*="tvtropes.org"])
 duckduckgo.*##li:has(a[href*="aei.org"])
 duckduckgo.*##.results_links_deep:has(a[href*="aei.org"])
+duckduckgo.*##li:has(a[href*="fungies.io"])
+duckduckgo.*##.results_links_deep:has(a[href*="fungies.io"])
+duckduckgo.*##li:has(a[href*="pymnts.com"])
+duckduckgo.*##.results_links_deep:has(a[href*="pymnts.com"])
+duckduckgo.*##li:has(a[href*="pocketnow.com"])
+duckduckgo.*##.results_links_deep:has(a[href*="pocketnow.com"])
 
 ! Others
 duckduckgo.*##li:has(a[href*="daily.dev"])

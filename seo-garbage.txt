@@ -195,6 +195,9 @@
 ||coindesk.com
 ||tvtropes.org
 ||aei.org
+||fungies.io
+||pymnts.com
+||pocketnow.com
 
 ! Others
 ||daily.dev
