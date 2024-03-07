@@ -38,9 +38,6 @@ youtube.com##ytd-guide-entry-renderer:has(yt-formatted-string:has-text(/Shorts/)
 youtube.com##ytd-mini-guide-entry-renderer:has(a[title="Shorts"])
 youtube.com##.ytd-rich-shelf-renderer:has(span:has-text(/Shorts/))
 
-# VERKKOKAUPPA
-verkkokauppa.com##.product-list-navigator-wrapper
-
 # REUTERS
 reuters.com##[class*="divider-container"]:has(a:has-text(/Business/))
 reuters.com##[class*="divider-container"]:has(a:has-text(/Pictures/))
@@ -70,6 +67,10 @@ bleepingcomputer.com##li:has(a[href*="/offer/deal"])
 
 # LIBERATION
 liberation.fr##[class*="AdLayout"]
+
+# RANDOM SHOPS
+creality.shop##.ba-loy-namespace
+verkkokauppa.com##.product-list-navigator-wrapper
 
 # REMOVE TWITTER
 *##a[href*="x.com"]
