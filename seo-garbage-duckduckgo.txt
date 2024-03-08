@@ -387,6 +387,8 @@ duckduckgo.*##li:has(a[href*="pymnts.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="pymnts.com"])
 duckduckgo.*##li:has(a[href*="pocketnow.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="pocketnow.com"])
+duckduckgo.*##li:has(a[href*="phonemantra.com"])
+duckduckgo.*##.results_links_deep:has(a[href*="phonemantra.com"])
 
 ! Others
 duckduckgo.*##li:has(a[href*="daily.dev"])

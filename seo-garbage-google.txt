@@ -387,6 +387,8 @@ google.*##.g:has(a[href*="pymnts.com"])
 google.*##a[href*="pymnts.com"]:upward(1)
 google.*##.g:has(a[href*="pocketnow.com"])
 google.*##a[href*="pocketnow.com"]:upward(1)
+google.*##.g:has(a[href*="phonemantra.com"])
+google.*##a[href*="phonemantra.com"]:upward(1)
 
 ! Others
 google.*##.g:has(a[href*="daily.dev"])
