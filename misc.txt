@@ -68,6 +68,12 @@ bleepingcomputer.com##li:has(a[href*="/offer/deal"])
 # LIBERATION
 liberation.fr##[class*="AdLayout"]
 
+# Discord
+discord.com##div[class*="groupStart"]:has(div[class*="blockedSystemMessage"])
+discord.com##li[class*="channel_"]:has(div:has-text(/Nitro/))
+discord.com##div[class*="premiumTab"]
+discord.com##div[class*="button_"]
+
 # RANDOM SHOPS
 creality.shop##.ba-loy-namespace
 verkkokauppa.com##.product-list-navigator-wrapper
