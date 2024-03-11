@@ -199,6 +199,7 @@
 ||pymnts.com
 ||pocketnow.com
 ||phonemantra.com
+||intuneirl.com
 
 ! Others
 ||daily.dev
