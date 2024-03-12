@@ -200,6 +200,7 @@ ya.ru##.serp-item:has(a[href*="pymnts.com"])
 ya.ru##.serp-item:has(a[href*="pocketnow.com"])
 ya.ru##.serp-item:has(a[href*="phonemantra.com"])
 ya.ru##.serp-item:has(a[href*="intuneirl.com"])
+ya.ru##.serp-item:has(a[href*="thenewstack.io"])
 
 ! Others
 ya.ru##.serp-item:has(a[href*="daily.dev"])

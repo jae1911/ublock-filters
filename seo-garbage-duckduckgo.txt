@@ -391,6 +391,8 @@ duckduckgo.*##li:has(a[href*="phonemantra.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="phonemantra.com"])
 duckduckgo.*##li:has(a[href*="intuneirl.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="intuneirl.com"])
+duckduckgo.*##li:has(a[href*="thenewstack.io"])
+duckduckgo.*##.results_links_deep:has(a[href*="thenewstack.io"])
 
 ! Others
 duckduckgo.*##li:has(a[href*="daily.dev"])

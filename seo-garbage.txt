@@ -200,6 +200,7 @@
 ||pocketnow.com
 ||phonemantra.com
 ||intuneirl.com
+||thenewstack.io
 
 ! Others
 ||daily.dev
