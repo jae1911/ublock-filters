@@ -68,6 +68,9 @@ bleepingcomputer.com##li:has(a[href*="/offer/deal"])
 # LIBERATION
 liberation.fr##[class*="AdLayout"]
 
+# AP
+apnews.com##.Enhancement
+
 # Discord
 discord.com##div[class*="groupStart"]:has(div[class*="blockedSystemMessage"])
 discord.com##li[class*="channel_"]:has(div:has-text(/Nitro/))
