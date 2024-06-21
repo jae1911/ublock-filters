@@ -393,6 +393,8 @@ duckduckgo.*##li:has(a[href*="intuneirl.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="intuneirl.com"])
 duckduckgo.*##li:has(a[href*="thenewstack.io"])
 duckduckgo.*##.results_links_deep:has(a[href*="thenewstack.io"])
+duckduckgo.*##li:has(a[href*="toolify.ai"])
+duckduckgo.*##.results_links_deep:has(a[href*="toolify.ai"])
 
 ! Others
 duckduckgo.*##li:has(a[href*="daily.dev"])

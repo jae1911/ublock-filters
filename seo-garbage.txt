@@ -201,6 +201,7 @@
 ||phonemantra.com
 ||intuneirl.com
 ||thenewstack.io
+||toolify.ai
 
 ! Others
 ||daily.dev

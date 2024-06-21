@@ -393,6 +393,8 @@ google.*##.g:has(a[href*="intuneirl.com"])
 google.*##a[href*="intuneirl.com"]:upward(1)
 google.*##.g:has(a[href*="thenewstack.io"])
 google.*##a[href*="thenewstack.io"]:upward(1)
+google.*##.g:has(a[href*="toolify.ai"])
+google.*##a[href*="toolify.ai"]:upward(1)
 
 ! Others
 google.*##.g:has(a[href*="daily.dev"])
