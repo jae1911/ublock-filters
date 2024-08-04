@@ -202,6 +202,7 @@
 ||intuneirl.com
 ||thenewstack.io
 ||toolify.ai
+||adwareremoval.info
 
 ! Others
 ||daily.dev

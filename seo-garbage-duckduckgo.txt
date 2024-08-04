@@ -395,6 +395,8 @@ duckduckgo.*##li:has(a[href*="thenewstack.io"])
 duckduckgo.*##.results_links_deep:has(a[href*="thenewstack.io"])
 duckduckgo.*##li:has(a[href*="toolify.ai"])
 duckduckgo.*##.results_links_deep:has(a[href*="toolify.ai"])
+duckduckgo.*##li:has(a[href*="adwareremoval.info"])
+duckduckgo.*##.results_links_deep:has(a[href*="adwareremoval.info"])
 
 ! Others
 duckduckgo.*##li:has(a[href*="daily.dev"])
