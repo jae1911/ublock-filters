@@ -207,3 +207,4 @@ ya.ru##.serp-item:has(a[href*="adwareremoval.info"])
 ! Others
 ya.ru##.serp-item:has(a[href*="daily.dev"])
 ya.ru##.serp-item:has(a[href*="alldayathlete.de"])
+ya.ru##.serp-item:has(a[href*="furaffinity.com"])

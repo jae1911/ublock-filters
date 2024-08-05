@@ -207,3 +207,4 @@
 ! Others
 ||daily.dev
 ||alldayathlete.de
+||furaffinity.com
