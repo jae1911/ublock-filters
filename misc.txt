@@ -91,10 +91,6 @@ verkkokauppa.com##.product-list-navigator-wrapper
 *##[href*="instagram.com"]
 ||instagram.com
 
-# REMOVE BLUESKY
-*##[href*="bsky.app"]
-||bsky.app
-
 # TRACKING DATA
 ||ebay.*^$removeparam=/.*=/
 ||aliexpress.*^$removeparam=/.*=/
