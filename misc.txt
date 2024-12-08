@@ -94,3 +94,7 @@ verkkokauppa.com##.product-list-navigator-wrapper
 # TRACKING DATA
 ||ebay.*^$removeparam=/.*=/
 ||aliexpress.*^$removeparam=/.*=/
+
+# FSF Annoying banners
+*/nosvn/banners/*fundraiser/
+*##div[id^="fsf-modal-window-elem-container"]:has-text(/Donate/)
