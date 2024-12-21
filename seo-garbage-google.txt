@@ -233,6 +233,8 @@ google.*##.g:has(a[href*="gobankingrates.com"])
 google.*##a[href*="gobankingrates.com"]:upward(1)
 google.*##.g:has(a[href*="celectstudios.com"])
 google.*##a[href*="celectstudios.com"]:upward(1)
+google.*##.g:has(a[href*="videoconverterfactory.com"])
+google.*##a[href*="videoconverterfactory.com"]:upward(1)
 
 ! Content farms
 google.*##.g:has(a[href*="knowledgehut.com"])

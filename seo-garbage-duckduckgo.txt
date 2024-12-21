@@ -233,6 +233,8 @@ duckduckgo.*##li:has(a[href*="gobankingrates.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="gobankingrates.com"])
 duckduckgo.*##li:has(a[href*="celectstudios.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="celectstudios.com"])
+duckduckgo.*##li:has(a[href*="videoconverterfactory.com"])
+duckduckgo.*##.results_links_deep:has(a[href*="videoconverterfactory.com"])
 
 ! Content farms
 duckduckgo.*##li:has(a[href*="knowledgehut.com"])

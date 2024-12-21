@@ -120,6 +120,7 @@ ya.ru##.serp-item:has(a[href*="vpncrew.com"])
 ya.ru##.serp-item:has(a[href*="customerly.io"])
 ya.ru##.serp-item:has(a[href*="gobankingrates.com"])
 ya.ru##.serp-item:has(a[href*="celectstudios.com"])
+ya.ru##.serp-item:has(a[href*="videoconverterfactory.com"])
 
 ! Content farms
 ya.ru##.serp-item:has(a[href*="knowledgehut.com"])
