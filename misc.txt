@@ -101,3 +101,13 @@ verkkokauppa.com##.product-list-navigator-wrapper
 
 # Annoying ads
 european-alternatives.eu##aside:has-text(/Sponsored/)
+
+# Facebook
+||facebook.com
+||instagram.com
+||threads.com
+||threads.net
+||meta.com
+||whatsapp.com
+||mapillary.com
+||workplace.com
