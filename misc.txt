@@ -115,3 +115,18 @@ european-alternatives.eu##aside:has-text(/Sponsored/)
 # Misinformation
 ||cnews.fr
 ||bfmtv.com
+
+# Automattic
+||automattic.com
+||wordpress.com
+||beeper.com
+||tumblr.com
+||dayoneapp.com
+||woocommerce.com
+||jetpack.com
+||wpvip.com
+||pocketcasts.com
+||akismet.com
+||longreads.com
+||newspack.com
+||gravatar.com
