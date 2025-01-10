@@ -83,6 +83,8 @@ duckduckgo.*##li:has(a[href*="sensoriumarc.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="sensoriumarc.com"])
 duckduckgo.*##li:has(a[href*="mondayroadmap.com"])
 duckduckgo.*##.results_links_deep:has(a[href*="mondayroadmap.com"])
+duckduckgo.*##li:has(a[href*="linuxcapable.com"])
+duckduckgo.*##.results_links_deep:has(a[href*="linuxcapable.com"])
 
 ! Fake recommendations
 duckduckgo.*##li:has(a[href*="antivirusguide.com"])

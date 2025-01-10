@@ -44,6 +44,7 @@ ya.ru##.serp-item:has(a[href*="fool.com"])
 ya.ru##.serp-item:has(a[href*="analyticsinsight.net"])
 ya.ru##.serp-item:has(a[href*="sensoriumarc.com"])
 ya.ru##.serp-item:has(a[href*="mondayroadmap.com"])
+ya.ru##.serp-item:has(a[href*="linuxcapable.com"])
 
 ! Fake recommendations
 ya.ru##.serp-item:has(a[href*="antivirusguide.com"])
