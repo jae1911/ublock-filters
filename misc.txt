@@ -111,3 +111,7 @@ european-alternatives.eu##aside:has-text(/Sponsored/)
 ||whatsapp.com
 ||mapillary.com
 ||workplace.com
+
+# Misinformation
+||cnews.fr
+||bfmtv.com
