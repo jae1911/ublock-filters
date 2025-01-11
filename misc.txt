@@ -115,6 +115,7 @@ european-alternatives.eu##aside:has-text(/Sponsored/)
 # Misinformation
 ||cnews.fr
 ||bfmtv.com
+||thesun.co.uk
 
 # Automattic
 ||automattic.com
